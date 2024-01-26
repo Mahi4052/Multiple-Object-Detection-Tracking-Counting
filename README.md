@@ -67,7 +67,7 @@ Traditional methods may struggle to meet the computational demands of these real
   
 3.  __Real-time performance:__ Both YOLOv7 and SORT are optimized for real-time applications, making them suitable for video surveillance, robot navigation, and other time-sensitive tasks.
 
-## For More Information
+# For More Information
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Please check out the main file of project [detect_track](https://github.com/Mahi4052/Multiple-Object-Detection-Tracking-Counting/blob/main/detect_or_track.py)
 
