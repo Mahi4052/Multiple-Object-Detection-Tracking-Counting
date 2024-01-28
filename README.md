@@ -71,6 +71,6 @@ Traditional methods may struggle to meet the computational demands of these real
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Please check out the main file of project [detect_and_track](https://github.com/Mahi4052/Multiple-Object-Detection-Tracking-Counting/blob/main/detect_or_track.py)
 
-Video process data used [video.mp4](https://github.com/Mahi4052/Multiple-Object-Detection-Tracking-Counting/blob/main/street.mp4)
+Video process data used [street.mp4](https://github.com/Mahi4052/Multiple-Object-Detection-Tracking-Counting/blob/main/street.mp4)
 
 
